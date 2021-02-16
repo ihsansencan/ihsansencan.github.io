@@ -192,7 +192,7 @@ a > .hljs {
     .sidebar-visible .nav-wrapper { display: block; }
 }
 
-.inotes_logo, .right-buttons, .inotes_baslik, .sosyalm, .inotes_tab, #inotes_table, .nav-wrapper a{
+.inotes_logo, .right-buttons, .inotes_baslik, .sosyalm, .inotes_tab, #inotes_table, .nav-wrapper, .gostergizle, #tocmenu a{
   -webkit-touch-callout: none;
     -webkit-user-select: none;
      -khtml-user-select: none;
@@ -831,4 +831,44 @@ hr.style1 {
        -moz-user-select: none;
         -ms-user-select: none;
             user-select: none;
+}
+.gostergizle{
+z-index:9999;
+position:fixed;
+bottom:0px;
+right:15px;
+padding-bottom:10px;
+}
+.gostergizle button{
+  color:#ad6200;
+  font-weight: bold;
+  float: right;
+}
+.igizle
+{
+  display:none;
+}
+#tocmenu a{
+  color:#ad6200;
+  text-decoration:none;
+}
+#tocmenu a:hover{
+  color:#ffffff;
+  text-decoration:none;
+}
+#tocmenu {
+  display: none;
+  bottom:30px;
+  right:0px;
+  margin-top: -2.5em;
+  z-index:9999;
+  position:fixed;
+  background-color: #0e0000ed;
+  width: 400px;
+  font-size: 14px;
+  padding: 10px;
+  list-style-type: none;
+  border-radius: 5px 0px 0px 5px;
+  overflow-y: scroll;
+  height: 200px;
 }
