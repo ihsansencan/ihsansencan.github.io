@@ -312,7 +312,6 @@ Useragent CertUtil URL Agent</p>
         <script src="https://ihsansencan.github.io/mark.min.js" type="text/javascript" charset="utf-8"></script>
         <script src="https://ihsansencan.github.io/searcher.js" type="text/javascript" charset="utf-8"></script>
         
-        <script src="https://ihsansencan.github.io/assets/js/jquery-1.7.2.min.js"></script>
         <script src="https://ihsansencan.github.io/clipboard.min.js" type="text/javascript" charset="utf-8"></script>
         <script src="https://ihsansencan.github.io/highlight.js" type="text/javascript" charset="utf-8"></script>
         <script src="https://ihsansencan.github.io/book.js" type="text/javascript" charset="utf-8"></script>
@@ -329,42 +328,6 @@ Useragent CertUtil URL Agent</p>
                 document.body.innerHTML = originalContents;
             }
         </script>
-
-<script>hljs.initHighlightingOnLoad();</script>
-<script type="text/javascript">
- $(document).ready(function(){
-      $("h2,h3,h4,h5,h6").each(function(i,item){
-        var tag = $(item).get(0).localName;
-        $(item).attr("id","iToc"+i);
-        $("#tocmenu").append('<li><a class="ver'+tag+'" href="#iToc'+i+'"><i class="fa fa-angle-down"></i> '+$(this).text()+'</a></li>');
-        $(".verh2").css("margin-left",0);
-        $(".verh3").css("margin-left",20);
-        $(".verh4").css("margin-left",40);
-        $(".verh5").css("margin-left",60);
-        $(".verh6").css("margin-left",80);
-      });
- });
-</script>
-
-<div class="gostergizle">
-<button class="igizle"><i class="fa fa-angle-double-right"></i> TOC Hide</button>
-<button class="igoster"><i class="fa fa-angle-double-left"></i> TOC Show</button>
-</div>
-
-<ul id="tocmenu"></ul>
-
-<script>
-$('.igoster').click(function() {
-    $('#tocmenu').show(200);
-    $('.igoster').hide(0);
-    $('.igizle').show(0);
-});
-$('.igizle').click(function() {
-    $('#tocmenu').hide(500);
-    $('.igoster').show(0);
-    $('.igizle').hide(0);
-});
-</script>
 
     </body>
 </html>
