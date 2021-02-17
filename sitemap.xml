@@ -9,20 +9,11 @@
   <loc>https://ihsansencan.github.io/</loc>
   <lastmod>2021-02-16T20:58:23+00:00</lastmod>
   <priority>1.00</priority>
-  <image:image>
-    <image:loc>https://ihsansencan.github.io/assets/images/inotes_bimg.png</image:loc>
-    <image:caption>iNotes</image:caption>
-    <image:title>iNotes</image:title>  
-  </image:image>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/index.html</loc>
   <lastmod>2021-02-16T20:58:23+00:00</lastmod>
   <priority>0.80</priority>
-    <image:loc>https://ihsansencan.github.io/assets/images/inotes_bimg.png</image:loc>
-    <image:caption>iNotes</image:caption>
-    <image:title>iNotes</image:title>  
-  </image:image>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/general-knowledge/index.html</loc>
