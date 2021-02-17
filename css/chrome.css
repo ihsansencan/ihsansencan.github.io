@@ -874,3 +874,22 @@ padding-bottom:10px;
   overflow-y: scroll;
   height: 200px;
 }
+.kalp{
+  color:#eb5e28;
+  -webkit-animation:heathing 1s ease infinite;
+  animation:heathing 1s ease infinite}@
+  -webkit-keyframes heathing{0%{-webkit-transform:scale(.75);
+  transform:scale(.75)}20%{
+    -webkit-transform:scale(1);transform:scale(1)}40%{
+    -webkit-transform:scale(.75);transform:scale(.75)}60%{
+      -webkit-transform:scale(1);
+  transform:scale(1)}80%{-webkit-transform:scale(.75);
+  transform:scale(.75)}to{-webkit-transform:scale(.75);
+  transform:scale(.75)}}@keyframes heathing{0%{-webkit-transform:scale(.75);
+  transform:scale(.75)}20%{-webkit-transform:scale(1);
+  transform:scale(1)}40%{-webkit-transform:scale(.75);
+  transform:scale(.75)}60%{-webkit-transform:scale(1);
+  transform:scale(1)}80%{-webkit-transform:scale(.75);
+  transform:scale(.75)}to{-webkit-transform:scale(.75);
+  transform:scale(.75)}
+}
