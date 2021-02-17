@@ -1,1662 +1,2518 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
 <url>
   <loc>https://ihsansencan.github.io/</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>1.00</priority>
+  <image:image>
+    <image:loc>https://ihsansencan.github.io/assets/images/inotes_bimg.png</image:loc>
+    <image:caption>iNotes</image:caption>
+    <image:title>iNotes</image:title>  
+  </image:image>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/index.html</loc>
+  <loc>https://ihsansencan.github.io/index.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
+    <image:loc>https://ihsansencan.github.io/assets/images/inotes_bimg.png</image:loc>
+    <image:caption>iNotes</image:caption>
+    <image:title>iNotes</image:title>  
+  </image:image>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/general-knowledge/index.html</loc>
+  <loc>https://ihsansencan.github.io/general-knowledge/index.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/general-knowledge/active-directory.html</loc>
+  <loc>https://ihsansencan.github.io/general-knowledge/active-directory.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/general-knowledge/network.html</loc>
+  <loc>https://ihsansencan.github.io/general-knowledge/network.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/general-knowledge/osint.html</loc>
+  <loc>https://ihsansencan.github.io/general-knowledge/osint.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/general-knowledge/powershell.html</loc>
+  <loc>https://ihsansencan.github.io/general-knowledge/powershell.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/general-knowledge/mobile.html</loc>
+  <loc>https://ihsansencan.github.io/general-knowledge/mobile.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/general-knowledge/wireless.html</loc>
+  <loc>https://ihsansencan.github.io/general-knowledge/wireless.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/general-knowledge/crypto.html</loc>
+  <loc>https://ihsansencan.github.io/general-knowledge/crypto.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/general-knowledge/hardware.html</loc>
+  <loc>https://ihsansencan.github.io/general-knowledge/hardware.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/tools-tips-tricks/index.html</loc>
+  <loc>https://ihsansencan.github.io/tools-tips-tricks/index.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/tools-tips-tricks/metasploit.html</loc>
+  <loc>https://ihsansencan.github.io/tools-tips-tricks/metasploit.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/tools-tips-tricks/msfvenom.html</loc>
+  <loc>https://ihsansencan.github.io/tools-tips-tricks/msfvenom.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/tools-tips-tricks/mimikatz.html</loc>
+  <loc>https://ihsansencan.github.io/tools-tips-tricks/mimikatz.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/tools-tips-tricks/bloodhound.html</loc>
+  <loc>https://ihsansencan.github.io/tools-tips-tricks/bloodhound.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/tools-tips-tricks/ida-pro.html</loc>
+  <loc>https://ihsansencan.github.io/tools-tips-tricks/ida-pro.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/index.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/index.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/index.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/index.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/index.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/index.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/apt-get.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/apt-get.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/apt.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/apt.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/ar.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/ar.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/aria2c.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/aria2c.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/arp.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/arp.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/ash.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/ash.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/at.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/at.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/atobm.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/atobm.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/awk.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/awk.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/base32.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/base32.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/base64.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/base64.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/basenc.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/basenc.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/bash.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/bash.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/bpftrace.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/bpftrace.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/bridge.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/bridge.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/bundler.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/bundler.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/busctl.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/busctl.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/busybox.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/busybox.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/byebug.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/byebug.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/cancel.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/cancel.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/capsh.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/capsh.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/cat.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/cat.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/check-by-ssh.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/check-by-ssh.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/check-cups.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/check-cups.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/check-log.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/check-log.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/check-memory.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/check-memory.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/check-raid.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/check-raid.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/check-ssl-cert.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/check-ssl-cert.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/check-statusfile.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/check-statusfile.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/chmod.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/chmod.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/chown.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/chown.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/chroot.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/chroot.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/cobc.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/cobc.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/column.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/column.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/comm.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/comm.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/composer.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/composer.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/cowsay.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/cowsay.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/cowthink.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/cowthink.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/cp.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/cp.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/cpan.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/cpan.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/cpulimit.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/cpulimit.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/crash.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/crash.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/crontab.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/crontab.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/csh.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/csh.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/csplit.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/csplit.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/cupsfilter.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/cupsfilter.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/curl.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/curl.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/cut.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/cut.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/dash.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/dash.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/date.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/date.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/dd.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/dd.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/dialog.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/dialog.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/diff.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/diff.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/dig.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/dig.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/dmesg.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/dmesg.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/dmsetup.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/dmsetup.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/dnf.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/dnf.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/docker.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/docker.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/dpkg.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/dpkg.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/easy-install.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/easy-install.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/eb.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/eb.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/ed.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/ed.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/emacs.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/emacs.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/env.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/env.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/eqn.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/eqn.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/ex.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/ex.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/exiftool.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/exiftool.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/expand.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/expand.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/expect.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/expect.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/facter.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/facter.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/file.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/file.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/find.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/find.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/finger.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/finger.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/flock.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/flock.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/fmt.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/fmt.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/fold.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/fold.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/ftp.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/ftp.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/gawk.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/gawk.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/gcc.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/gcc.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/gdb.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/gdb.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/gem.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/gem.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/genisoimage.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/genisoimage.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/ghc.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/ghc.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/ghci.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/ghci.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/gimp.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/gimp.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/git.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/git.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/grep.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/grep.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/gtester.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/gtester.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/hd.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/hd.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/head.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/head.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/hexdump.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/hexdump.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/highlight.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/highlight.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/hping3.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/hping3.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/iconv.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/iconv.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/iftop.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/iftop.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/install.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/install.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/ionice.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/ionice.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/ip.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/ip.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/irb.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/irb.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/jjs.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/jjs.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/join.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/join.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/journalctl.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/journalctl.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/jq.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/jq.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/jrunscript.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/jrunscript.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/ksh.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/ksh.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/ksshell.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/ksshell.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/ld.so.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/ld.so.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/ldconfig.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/ldconfig.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/less.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/less.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/logsave.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/logsave.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/look.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/look.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/ltrace.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/ltrace.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/lua.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/lua.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/lwp-download.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/lwp-download.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/lwp-request.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/lwp-request.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/mail.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/mail.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/make.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/make.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/man.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/man.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/mawk.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/mawk.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/more.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/more.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/mount.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/mount.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/mtr.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/mtr.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/mv.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/mv.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/mysql.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/mysql.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/nano.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/nano.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/nawk.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/nawk.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/nc.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/nc.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/nice.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/nice.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/nl.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/nl.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/nmap.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/nmap.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/node.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/node.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/nohup.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/nohup.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/npm.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/npm.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/nroff.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/nroff.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/nsenter.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/nsenter.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/od.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/od.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/openssl.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/openssl.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/openvt.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/openvt.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/paste.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/paste.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/pdb.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/pdb.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/perl.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/perl.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/pg.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/pg.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/php.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/php.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/pic.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/pic.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/pico.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/pico.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/pip.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/pip.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/pkexec.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/pkexec.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/pr.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/pr.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/pry.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/pry.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/psql.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/psql.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/puppet.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/puppet.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/python.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/python.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/rake.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/rake.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/readelf.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/readelf.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/red.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/red.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/redcarpet.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/redcarpet.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/restic.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/restic.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/rev.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/rev.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/rlogin.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/rlogin.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/rlwrap.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/rlwrap.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/rpm.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/rpm.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/rpmquery.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/rpmquery.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/rsync.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/rsync.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/ruby.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/ruby.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/run-mailcap.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/run-mailcap.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/run-parts.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/run-parts.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/rview.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/rview.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/rvim.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/rvim.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/scp.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/scp.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/screen.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/screen.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/script.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/script.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/sed.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/sed.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/service.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/service.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/setarch.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/setarch.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/sftp.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/sftp.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/shuf.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/shuf.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/slsh.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/slsh.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/smbclient.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/smbclient.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/socat.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/socat.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/soelim.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/soelim.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/sort.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/sort.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/split.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/split.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/sqlite3.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/sqlite3.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/ss.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/ss.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/ssh-keyscan.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/ssh-keyscan.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/ssh.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/ssh.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/start-stop-daemon.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/start-stop-daemon.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/stdbuf.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/stdbuf.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/strace.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/strace.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/strings.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/strings.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/su.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/su.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/sysctl.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/sysctl.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/systemctl.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/systemctl.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/tac.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/tac.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/tail.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/tail.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/tar.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/tar.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/taskset.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/taskset.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/tbl.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/tbl.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/tclsh.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/tclsh.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/tcpdump.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/tcpdump.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/tee.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/tee.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/telnet.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/telnet.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/tftp.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/tftp.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/time.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/time.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/timeout.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/timeout.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/tmux.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/tmux.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/top.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/top.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/troff.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/troff.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/ul.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/ul.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/unexpand.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/unexpand.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/uniq.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/uniq.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/unshare.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/unshare.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/update-alternatives.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/update-alternatives.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/uudecode.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/uudecode.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/uuencode.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/uuencode.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/valgrind.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/valgrind.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/vi.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/vi.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/view.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/view.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/vim.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/vim.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/watch.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/watch.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/wget.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/wget.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/whois.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/whois.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/wish.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/wish.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/xargs.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/xargs.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/xmodmap.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/xmodmap.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/xxd.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/xxd.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/xz.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/xz.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/yelp.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/yelp.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/yum.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/yum.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/zip.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/zip.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/zsh.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/zsh.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/zsoelim.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/zsoelim.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/linux/binaries/zypper.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/linux/binaries/zypper.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/index.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/index.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/services.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/services.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/registry.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/registry.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/index.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/index.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/appinstaller-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/appinstaller-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/at-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/at-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/atbroker-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/atbroker-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/bash-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/bash-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/bitsadmin-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/bitsadmin-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/certreq-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/certreq-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/certutil-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/certutil-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/cmd-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/cmd-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/cmdkey-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/cmdkey-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/cmstp-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/cmstp-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/configsecuritypolicy-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/configsecuritypolicy-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/control-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/control-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/csc-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/csc-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/cscript-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/cscript-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/desktopimgdownldr-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/desktopimgdownldr-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/dfsvc-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/dfsvc-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/diantz-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/diantz-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/diskshadow-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/diskshadow-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/dnscmd-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/dnscmd-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/esentutl-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/esentutl-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/eventvwr-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/eventvwr-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/expand-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/expand-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/explorer-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/explorer-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/extexport-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/extexport-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/extrac32-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/extrac32-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/findstr-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/findstr-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/forfiles-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/forfiles-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/ftp-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/ftp-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/gfxdownloadwrapper-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/gfxdownloadwrapper-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/gpscript-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/gpscript-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/hh-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/hh-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/ie4uinit-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/ie4uinit-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/ieexec-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/ieexec-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/ilasm-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/ilasm-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/infdefaultinstall-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/infdefaultinstall-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/installutil-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/installutil-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/jsc-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/jsc-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/makecab-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/makecab-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/mavinject-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/mavinject-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/microsoft-workflow-compiler-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/microsoft-workflow-compiler-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/mmc-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/mmc-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/mpcmdrun-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/mpcmdrun-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/msbuild-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/msbuild-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/msconfig-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/msconfig-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/msdt-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/msdt-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/mshta-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/mshta-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/msiexec-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/msiexec-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/netsh-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/netsh-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/odbcconf-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/odbcconf-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/pcalua-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/pcalua-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/pcwrun-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/pcwrun-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/pktmon-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/pktmon-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/presentationhost-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/presentationhost-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/print-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/print-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/psr-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/psr-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/rasautou-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/rasautou-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/reg-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/reg-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/regasm-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/regasm-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/regedit-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/regedit-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/regini-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/regini-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/register-cimprovider-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/register-cimprovider-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/regsvcs-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/regsvcs-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/regsvr32-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/regsvr32-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/replace-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/replace-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/rpcping-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/rpcping-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/rundll32-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/rundll32-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/runonce-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/runonce-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/runscripthelper-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/runscripthelper-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/sc-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/sc-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/schtasks-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/schtasks-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/scriptrunner-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/scriptrunner-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/syncappvpublishingserver-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/syncappvpublishingserver-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/ttdinject-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/ttdinject-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/tttracer-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/tttracer-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/vbc-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/vbc-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/verclsid-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/verclsid-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/wab-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/wab-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/wmic-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/wmic-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/wscript-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/wscript-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/wsreset-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/wsreset-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/wuauclt-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/wuauclt-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/xwizard-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/xwizard-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/advpack-dll.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/advpack-dll.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/comsvcs-dll.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/comsvcs-dll.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/ieadvpack-dll.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/ieadvpack-dll.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/ieaframe-dll.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/ieaframe-dll.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/mshtml-dll.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/mshtml-dll.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/pcwutl-dll.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/pcwutl-dll.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/setupapi-dll.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/setupapi-dll.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/shdocvw-dll.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/shdocvw-dll.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/shell32-dll.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/shell32-dll.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/syssetup-dll.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/syssetup-dll.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/url-dll.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/url-dll.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/zipfldr-dll.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/zipfldr-dll.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/agentexecutor-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/agentexecutor-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/appvlp-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/appvlp-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/bginfo-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/bginfo-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/cdb-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/cdb-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/coregen-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/coregen-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/csi-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/csi-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/defaultpack-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/defaultpack-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/devtoolslauncher-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/devtoolslauncher-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/dnx-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/dnx-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/dotnet-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/dotnet-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/dxcap-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/dxcap-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/excel-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/excel-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/mftrace-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/mftrace-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/msdeploy-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/msdeploy-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/msxsl-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/msxsl-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/ntdsutil-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/ntdsutil-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/powerpnt-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/powerpnt-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/rcsi-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/rcsi-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/sqldumper-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/sqldumper-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/sqlps-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/sqlps-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/sqltoolsps-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/sqltoolsps-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/squirrel-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/squirrel-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/te-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/te-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/tracker-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/tracker-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/update-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/update-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/vsjitdebugger-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/vsjitdebugger-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/winword-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/winword-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/wsl-exe.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/wsl-exe.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/cl-mutexverifiers-ps1.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/cl-mutexverifiers-ps1.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/cl-invocation-ps1.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/cl-invocation-ps1.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/manage-bde-wsf.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/manage-bde-wsf.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/pubprn-vbs.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/pubprn-vbs.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/slmgr-vbs.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/slmgr-vbs.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/syncappvpublishingserver-vbs.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/syncappvpublishingserver-vbs.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/winrm-vbs.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/winrm-vbs.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/privilege-escalation/windows/binaries/pester-bat.html</loc>
+  <loc>https://ihsansencan.github.io/privilege-escalation/windows/binaries/pester-bat.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/scanning/index.html</loc>
+  <loc>https://ihsansencan.github.io/scanning/index.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/scanning/network.html</loc>
+  <loc>https://ihsansencan.github.io/scanning/network.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/scanning/web.html</loc>
+  <loc>https://ihsansencan.github.io/scanning/web.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/scanning/nmap.html</loc>
+  <loc>https://ihsansencan.github.io/scanning/nmap.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/enumeration/index.html</loc>
+  <loc>https://ihsansencan.github.io/enumeration/index.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/enumeration/linux.html</loc>
+  <loc>https://ihsansencan.github.io/enumeration/linux.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/enumeration/windows.html</loc>
+  <loc>https://ihsansencan.github.io/enumeration/windows.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/enumeration/http/index.html</loc>
+  <loc>https://ihsansencan.github.io/enumeration/http/index.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/enumeration/http/gobuster.html</loc>
+  <loc>https://ihsansencan.github.io/enumeration/http/gobuster.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/enumeration/http/nikto.html</loc>
+  <loc>https://ihsansencan.github.io/enumeration/http/nikto.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/enumeration/http/dirsearch.html</loc>
+  <loc>https://ihsansencan.github.io/enumeration/http/dirsearch.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/enumeration/http/wfuzz.html</loc>
+  <loc>https://ihsansencan.github.io/enumeration/http/wfuzz.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/enumeration/http/login_bypass.html</loc>
+  <loc>https://ihsansencan.github.io/enumeration/http/login_bypass.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/enumeration/http/Hydra.html</loc>
+  <loc>https://ihsansencan.github.io/enumeration/http/hydra.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/enumeration/ssh.html</loc>
+  <loc>https://ihsansencan.github.io/enumeration/ssh.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/enumeration/domain.html</loc>
+  <loc>https://ihsansencan.github.io/enumeration/domain.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/enumeration/netbios.html</loc>
+  <loc>https://ihsansencan.github.io/enumeration/netbios.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/enumeration/ftp.html</loc>
+  <loc>https://ihsansencan.github.io/enumeration/ftp.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/enumeration/smb.html</loc>
+  <loc>https://ihsansencan.github.io/enumeration/smb.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/enumeration/snmp.html</loc>
+  <loc>https://ihsansencan.github.io/enumeration/snmp.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/enumeration/databases.html</loc>
+  <loc>https://ihsansencan.github.io/enumeration/databases.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/enumeration/telnet.html</loc>
+  <loc>https://ihsansencan.github.io/enumeration/telnet.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/enumeration/rdp.html</loc>
+  <loc>https://ihsansencan.github.io/enumeration/rdp.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/writeups/index.html</loc>
+  <loc>https://ihsansencan.github.io/writeups/index.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/misc-tools/index.html</loc>
+  <loc>https://ihsansencan.github.io/misc-tools/index.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/misc-tools/base64-encode-decode.html</loc>
+  <loc>https://ihsansencan.github.io/misc-tools/base64-encode-decode.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/misc-tools/url-encode-decode.html</loc>
+  <loc>https://ihsansencan.github.io/misc-tools/url-encode-decode.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/misc-tools/password-generator.html</loc>
+  <loc>https://ihsansencan.github.io/misc-tools/password-generator.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/misc-tools/hex-to-text.html</loc>
+  <loc>https://ihsansencan.github.io/misc-tools/hex-to-text.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://ihsansencan.github.io/misc-tools/qr-code_generator.html</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/sitemap.xml</loc>
+  <loc>https://ihsansencan.github.io/misc-tools/qr-code_generator.html</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Exploit</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Scanning</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Metasploit</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Msfvenom</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Mimikatz</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=BloodHound</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://ihsansencan.github.io/?search=Linux Commands</loc>
+  <loc>https://ihsansencan.github.io/?search=Linux%20Commands</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://ihsansencan.github.io/?search=Windows Commands</loc>
+  <loc>https://ihsansencan.github.io/?search=Windows%20Commands</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://ihsansencan.github.io/?search=Wireless Attack</loc>
+  <loc>https://ihsansencan.github.io/?search=Wireless%20Attack</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Network</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=CSRF</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=XSS</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://ihsansencan.github.io/?search=Stored XSS</loc>
+  <loc>https://ihsansencan.github.io/?search=Stored%20XSS</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://ihsansencan.github.io/?search=Reflected XSS</loc>
+  <loc>https://ihsansencan.github.io/?search=Reflected%20XSS</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://ihsansencan.github.io/?search=DOM Based XSS</loc>
+  <loc>https://ihsansencan.github.io/?search=DOM%20Based%20XSS</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://ihsansencan.github.io/?search=Command Injection</loc>
+  <loc>https://ihsansencan.github.io/?search=Command%20Injection</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Commix</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://ihsansencan.github.io/?search=SQL Injection</loc>
+  <loc>https://ihsansencan.github.io/?search=SQL%20Injection</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://ihsansencan.github.io/?search=Union Sqli Method</loc>
+  <loc>https://ihsansencan.github.io/?search=Union%20Sqli%20Method</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://ihsansencan.github.io/?search=Blind Sqli Method</loc>
+  <loc>https://ihsansencan.github.io/?search=Blind%20Sqli%20Method</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://ihsansencan.github.io/?search=Error Based Sqli</loc>
+  <loc>https://ihsansencan.github.io/?search=Error%20Based%20Sqli</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://ihsansencan.github.io/?search=XML External Entity</loc>
+  <loc>https://ihsansencan.github.io/?search=XML%20External%20Entity</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://ihsansencan.github.io/?search=Directory Traversal</loc>
+  <loc>https://ihsansencan.github.io/?search=Directory%20Traversal</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://ihsansencan.github.io/?search=Buffer Overflow</loc>
+  <loc>https://ihsansencan.github.io/?search=Buffer%20Overflow</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Ruby</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Java</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Telnet</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Netcat</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Php</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Gawk</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Urlreverseshell</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Gobuster</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Wfuzz</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Webdav</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Jenkin</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Nmap</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Myway</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Loginwithrsa</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Decryptrsa</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Checksmbversion</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Snmp</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Snmp_Enum</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Errorbasedsql</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Booleanbased</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Timebasedsqli</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Mdbtool</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Tty</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Basicenumeration</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Suid</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Cron</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Grep</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Oneliner</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Shell</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Webpayload</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Binaries</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Meterpreter</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Bash</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Awk</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Perl</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Lua</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Irb</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Tcpdump</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Vi</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Tftp</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Http</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Linux</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Windows</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Scp</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Transfer</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Pwershell</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Certutil</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Debug</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Bitsadmin</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Smb</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Rdp</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Powerup</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Openssl</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Python</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Mkpasswd</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Adduser</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Bashark</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Cp</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ihsansencan.github.io/?search=Tmux</loc>
+  <lastmod>2021-02-16T20:58:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Docker</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Pip</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Lxd</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Socat</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Capabilities</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Strace</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Ssh</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Make</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Wine</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Ftp</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Micro</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Mysql</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Hashcat</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Gpp-Decrypt</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Wp</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=John</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Hydra</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Cewlandcrunch</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Medusa</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Ncrack</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Fcrackzip</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Keepass</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Passwordcracking</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Zip</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Ntlm</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Compiling</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Tunneling</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Imptools</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Enumeration</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Nikto</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=HackTheBox</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=PriviaHub</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=TryHackMe</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Dirsearch</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=WFuzz</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Login Bypass</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Ssh Enum</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Ftp Enum</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Smb Attack</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Bug Bounty</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Msql</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Mssql</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Kerberos Attacks</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Dirty Cow</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Wireless Attacks</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Linenum</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=LinPeas</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Remote code execution</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=iNotes</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Challenges</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Phishing Attack</loc>
-</url>
-<url>
-  <loc>https://ihsansencan.github.io/?search=Mitm Attack</loc>
-</url>
+
 </urlset>
