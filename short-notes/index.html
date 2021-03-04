@@ -208,6 +208,131 @@ http://ihsansencan.github.io/
                 <div id="content" class="content">
                     <main>
                         <div class="inotes_baslik">~/Short Notes# <b>█</b></div>
+<h4><a class="header" href="#javascript-os-detection" id="javascript-os-detection">JavaScript: OS Detection</a></h4>
+<pre><code class="language-js">var OSName=&quot;Unknown OS&quot;;
+if (navigator.appVersion.indexOf(&quot;Win&quot;)!=-1) OSName=&quot;Windows&quot;;
+if (navigator.appVersion.indexOf(&quot;Mac&quot;)!=-1) OSName=&quot;MacOS&quot;;
+if (navigator.appVersion.indexOf(&quot;X11&quot;)!=-1) OSName=&quot;UNIX&quot;;
+if (navigator.appVersion.indexOf(&quot;Linux&quot;)!=-1) OSName=&quot;Linux&quot;;
+
+document.write('Your OS: '+OSName);
+//Your OS: Linux
+</code></pre>
+<h4><a class="header" href="#javascript-browser-detection" id="javascript-browser-detection">JavaScript: Browser Detection</a></h4>
+<pre><code class="language-js">var nVer = navigator.appVersion;
+var nAgt = navigator.userAgent;
+var browserName  = navigator.appName;
+var fullVersion  = ''+parseFloat(navigator.appVersion); 
+var majorVersion = parseInt(navigator.appVersion,10);
+var nameOffset,verOffset,ix;
+
+if ((verOffset=nAgt.indexOf(&quot;OPR/&quot;))!=-1) {
+ browserName = &quot;Opera&quot;;
+ fullVersion = nAgt.substring(verOffset+4);
+}
+else if ((verOffset=nAgt.indexOf(&quot;Opera&quot;))!=-1) {
+ browserName = &quot;Opera&quot;;
+ fullVersion = nAgt.substring(verOffset+6);
+ if ((verOffset=nAgt.indexOf(&quot;Version&quot;))!=-1) 
+   fullVersion = nAgt.substring(verOffset+8);
+}
+else if ((verOffset=nAgt.indexOf(&quot;MSIE&quot;))!=-1) {
+ browserName = &quot;Microsoft Internet Explorer&quot;;
+ fullVersion = nAgt.substring(verOffset+5);
+}
+else if ((verOffset=nAgt.indexOf(&quot;Chrome&quot;))!=-1) {
+ browserName = &quot;Chrome&quot;;
+ fullVersion = nAgt.substring(verOffset+7);
+}
+else if ((verOffset=nAgt.indexOf(&quot;Safari&quot;))!=-1) {
+ browserName = &quot;Safari&quot;;
+ fullVersion = nAgt.substring(verOffset+7);
+ if ((verOffset=nAgt.indexOf(&quot;Version&quot;))!=-1) 
+   fullVersion = nAgt.substring(verOffset+8);
+}
+else if ((verOffset=nAgt.indexOf(&quot;Firefox&quot;))!=-1) {
+ browserName = &quot;Firefox&quot;;
+ fullVersion = nAgt.substring(verOffset+8);
+}
+else if ( (nameOffset=nAgt.lastIndexOf(' ')+1) &lt; 
+          (verOffset=nAgt.lastIndexOf('/')) ) 
+{
+ browserName = nAgt.substring(nameOffset,verOffset);
+ fullVersion = nAgt.substring(verOffset+1);
+ if (browserName.toLowerCase()==browserName.toUpperCase()) {
+  browserName = navigator.appName;
+ }
+}
+if ((ix=fullVersion.indexOf(&quot;;&quot;))!=-1)
+   fullVersion=fullVersion.substring(0,ix);
+if ((ix=fullVersion.indexOf(&quot; &quot;))!=-1)
+   fullVersion=fullVersion.substring(0,ix);
+
+majorVersion = parseInt(''+fullVersion,10);
+if (isNaN(majorVersion)) {
+ fullVersion  = ''+parseFloat(navigator.appVersion); 
+ majorVersion = parseInt(navigator.appVersion,10);
+}
+
+document.write(''
+ +'Browser name  = '+browserName+'&lt;br&gt;'
+ +'Full version  = '+fullVersion+'&lt;br&gt;'
+ +'Major version = '+majorVersion+'&lt;br&gt;'
+ +'navigator.appName = '+navigator.appName+'&lt;br&gt;'
+ +'navigator.userAgent = '+navigator.userAgent+'&lt;br&gt;'
+)
+//Your OS: LinuxBrowser name = Chrome
+//Full version = 88.0.4324.182
+//Major version = 88
+//navigator.appName = Netscape
+//navigator.userAgent = Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
+</code></pre>
+<h4><a class="header" href="#javascript-screen-size-detection" id="javascript-screen-size-detection">JavaScript: Screen Size Detection</a></h4>
+<pre><code class="language-js">var screenW = 640, screenH = 480;
+if (parseInt(navigator.appVersion)&gt;3) {
+ screenW = screen.width;
+ screenH = screen.height;
+}
+else if (navigator.appName == &quot;Netscape&quot; 
+    &amp;&amp; parseInt(navigator.appVersion)==3
+    &amp;&amp; navigator.javaEnabled()
+   ) 
+{
+ var jToolkit = java.awt.Toolkit.getDefaultToolkit();
+ var jScreenSize = jToolkit.getScreenSize();
+ screenW = jScreenSize.width;
+ screenH = jScreenSize.height;
+}
+
+document.write(
+ &quot;Screen width = &quot;+screenW+&quot;&lt;br&gt;&quot;
++&quot;Screen height = &quot;+screenH
+)
+//Screen width = 1366
+//Screen height = 768
+</code></pre>
+<h4><a class="header" href="#javascript-windows-size-detection" id="javascript-windows-size-detection">JavaScript: Windows Size Detection</a></h4>
+<pre><code class="language-js">var winW = 630, winH = 460;
+if (document.body &amp;&amp; document.body.offsetWidth) {
+ winW = document.body.offsetWidth;
+ winH = document.body.offsetHeight;
+}
+if (document.compatMode=='CSS1Compat' &amp;&amp;
+    document.documentElement &amp;&amp;
+    document.documentElement.offsetWidth ) {
+ winW = document.documentElement.offsetWidth;
+ winH = document.documentElement.offsetHeight;
+}
+if (window.innerWidth &amp;&amp; window.innerHeight) {
+ winW = window.innerWidth;
+ winH = window.innerHeight;
+}
+
+document.writeln('Window width = '+winW);
+document.writeln('Window height = '+winH);
+//Window width = 918
+//Window height = 358
+</code></pre>
 <h4><a class="header" href="#bash-scriptsh-binbashm-bad-interpreter-no-such-file-or-directory" id="bash-scriptsh-binbashm-bad-interpreter-no-such-file-or-directory">bash: ./Script.sh: /bin/bash^M: bad interpreter: No such file or directory</a></h4>
 <pre><code class="language-bash">sed -i -e 's/\r$//' Script.sh
 </code></pre>
