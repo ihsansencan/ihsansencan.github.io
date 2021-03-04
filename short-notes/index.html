@@ -281,7 +281,7 @@ document.write(''
  +'navigator.appName = '+navigator.appName+'&lt;br&gt;'
  +'navigator.userAgent = '+navigator.userAgent+'&lt;br&gt;'
 )
-//Your OS: LinuxBrowser name = Chrome
+//Browser name = Chrome
 //Full version = 88.0.4324.182
 //Major version = 88
 //navigator.appName = Netscape
@@ -332,6 +332,22 @@ document.writeln('Window width = '+winW);
 document.writeln('Window height = '+winH);
 //Window width = 918
 //Window height = 358
+</code></pre>
+<h4><a class="header" href="#javascript-is-java-enabled" id="javascript-is-java-enabled">JavaScript: Is Java enabled?</a></h4>
+<pre><code class="language-js">var javaOK = navigator.javaEnabled();
+
+if (javaOK) document.write(''
+  + 'Java is enabled: \n'
+  + 'javaEnabled() returned '
+  + javaOK.toString().bold()
+ )
+else document.write(''
+  + 'Java is NOT enabled: \n'
+  + 'javaEnabled() returned '
+  + javaOK.toString().bold()
+ )
+//Java is NOT enabled: 
+//javaEnabled() returned false
 </code></pre>
 <h4><a class="header" href="#bash-scriptsh-binbashm-bad-interpreter-no-such-file-or-directory" id="bash-scriptsh-binbashm-bad-interpreter-no-such-file-or-directory">bash: ./Script.sh: /bin/bash^M: bad interpreter: No such file or directory</a></h4>
 <pre><code class="language-bash">sed -i -e 's/\r$//' Script.sh
